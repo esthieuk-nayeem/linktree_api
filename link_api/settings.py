@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'authentication',
     'link_main',
+    'shop',
     'drf_yasg',
     'rest_framework_simplejwt',
     'rest_framework.authtoken',
